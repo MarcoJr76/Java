@@ -1,0 +1,11 @@
+com\varuna\factory\ClientFactory.class
+com\varuna\sales\entities\Sales.class
+com\varuna\sales\path\ConfPath.class
+com\varuna\service\Watcher.class
+com\varuna\sales\entities\Client.class
+com\varuna\factory\SalespeopleFactory.class
+com\varuna\sales\entities\Salespeople.class
+com\varuna\service\Writer.class
+com\varuna\factory\SalesFactory.class
+com\varuna\sales\app\App.class
+com\varuna\service\Reader.class
