@@ -1,2 +1,6 @@
 # Java
-Repositório para Projetos java
+Sistema de leitura de arquivos utilizando:
+
+- Java.
+- Maven.
+- Watcher.
